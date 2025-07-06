@@ -5,5 +5,6 @@ function demo (){
   console.log("a: " + a);
 }
 console.log("a: is nothing" + a);
+console.log("a: is nothing but IDK" + a);
 
 //let vs var vs const demonstration
